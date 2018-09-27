@@ -14,6 +14,9 @@
           rel="stylesheet">
     <!-- style bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
+
     <!-- style slick -->
     <link rel="stylesheet" href="css/slick.css">
     <!-- main style -->
@@ -172,6 +175,7 @@
                                 <a class="dropdown-item" href="#">Детский</a>
                                 <a class="dropdown-item" href="#">Бюджетный</a>
                                 <a class="dropdown-item" href="#">Ковровая плитка</a>
+                                <a class="dropdown-item" href="category.php">Все ковровые дорожки</a>
 
                             </div>
                         </li>
