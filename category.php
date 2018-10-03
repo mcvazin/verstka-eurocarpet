@@ -22,7 +22,7 @@ include 'header.php';
                     <img src="img/goods/categories/01.png" alt="">
                 </div>
                 <h3 class="cat-name">
-                    <a href="#">
+                    <a href="pid_category.php">
                         Бюджетные
                         <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                     </a></h3>

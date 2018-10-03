@@ -14,7 +14,7 @@
 						<div class="col-12 home-goods-slider">
 							<div class="good-home-card good-new">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -24,7 +24,7 @@
 							</div>
 							<div class="good-home-card good-sale">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -34,7 +34,7 @@
 							</div>
 							<div class="good-home-card">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -44,7 +44,7 @@
 							</div>
 							<div class="good-home-card good-new-sale">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -54,7 +54,7 @@
 							</div>
 							<div class="good-home-card">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -64,7 +64,7 @@
 							</div>
 							<div class="good-home-card">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -81,7 +81,7 @@
 						<div class="col-12 home-goods-slider">
 							<div class="good-home-card good-new">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -91,7 +91,7 @@
 							</div>
 							<div class="good-home-card good-new-sale">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -101,7 +101,7 @@
 							</div>
 							<div class="good-home-card good-new-sale">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -111,7 +111,7 @@
 							</div>
 							<div class="good-home-card good-new">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -122,7 +122,7 @@
 
 							<div class="good-home-card good-new">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -132,7 +132,7 @@
 							</div>
 							<div class="good-home-card good-new">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -150,7 +150,7 @@
 
 							<div class="good-home-card good-sale">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -160,7 +160,7 @@
 							</div>
 							<div class="good-home-card">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -170,7 +170,7 @@
 							</div>
 							<div class="good-home-card good-new">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -180,7 +180,7 @@
 							</div>
 							<div class="good-home-card good-new-sale">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -190,7 +190,7 @@
 							</div>
 							<div class="good-home-card">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -200,7 +200,7 @@
 							</div>
 							<div class="good-home-card">
 								<img src="img/goods/kover-1.jpg" alt="">
-								<h2 class="good-title">Ковер ZIYNET 0012</h2>
+								<p class="good-title">Ковер ZIYNET 0012</p>
 								<p class="goot-price">5 224,00 грн</p>
 								<div class="good-footer">
 									<a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>

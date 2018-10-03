@@ -14,7 +14,7 @@ include 'header.php';
     <div class="row pid-category">
         <div class="col-12">
             <div class="good-home-card pidcat-filter">
-                <div class = "col-filter">
+                <div class="col-filter">
                     <ul class="navbar-nav filter-nav">
                         <li class="nav-item">
                             <a class="nav-link" href="#">Ковролин для дома</a>
@@ -251,7 +251,7 @@ include 'header.php';
             </div>
 
             <div class="good-home-card pid-cat-about">
-                <h2 class="categiry-title">Коммерческий ковролин</h2>
+                <h1 class="category-title">Коммерческий ковролин</h1>
                 <p>На сегодняшний день в нашем ассортименте находится более чем 500 видов ковров и ковровых дорожек.
                     Все наши товары современные, высокого качества, имеют сертификаты, не вредят здоровью. Наша
                     миссия – помочь нашим клиентам создать максимальный уют и комфорт в доме. Наша система продаж
@@ -293,7 +293,7 @@ include 'header.php';
 
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="good-card-kover.php">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -319,7 +319,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -345,7 +345,7 @@ include 'header.php';
             </div>
             <div class="good-home-card">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -371,7 +371,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -397,7 +397,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -423,7 +423,7 @@ include 'header.php';
             </div>
             <div class="good-home-card">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -449,7 +449,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -475,7 +475,7 @@ include 'header.php';
             </div>
             <div class="good-home-card">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -501,7 +501,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -527,7 +527,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -553,7 +553,7 @@ include 'header.php';
             </div>
             <div class="good-home-card">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -579,7 +579,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -605,7 +605,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -631,7 +631,7 @@ include 'header.php';
             </div>
             <div class="good-home-card">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -657,7 +657,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -683,7 +683,7 @@ include 'header.php';
             </div>
             <div class="good-home-card">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -709,7 +709,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -735,7 +735,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -761,7 +761,7 @@ include 'header.php';
             </div>
             <div class="good-home-card">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -787,7 +787,7 @@ include 'header.php';
             </div>
             <div class="good-home-card good-new">
                 <img src="img/goods/kover-1.jpg" alt="">
-                <h2 class="good-title"><a href="#">Ковер ZIYNET 0012</a></h2>
+                <p class="good-title"><a href="#">Ковер ZIYNET 0012</a></p>
                 <p class="goot-price">5 224,00 грн</p>
                 <div class="good-footer">
                     <a href="" class="to-wishlist"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
@@ -819,9 +819,13 @@ include 'header.php';
 <div class="container">
     <div class="row">
         <div class="col-12 good-paggination">
-            <div class="pid-category-paggination d-block d-md-none"><span class="active">1</span> <a href="#">2</a> <a
-                        href="#">3</a><a>...</a><a
-                        href="#">10</a></div>
+            <div class="pid-category-paggination d-block d-md-none">
+                <span class="active">1</span>
+                <a href="#">2</a>
+                <a href="#">3</a>
+                <a>...</a>
+                <a href="#">10</a>
+            </div>
             <div><a href="#" class="good-paggination-arrow"><i class="fa fa-angle-left" aria-hidden="true"></i>
                     Предыдущая страница</a></div>
             <div class="pid-category-paggination d-none d-md-block"><span class="active">1</span> <a href="#">2</a> <a
@@ -834,11 +838,63 @@ include 'header.php';
     </div>
 
 </div>
-</div>
 
+
+<section class="container seo-text">
+    <div class="row">
+        <div class="col">
+            <h2 class = "text-center">Eurocarpet – интернет-магазин напольных покрытий в Украине.</h2>
+            <p> На сегодняшний день в нашем ассортименте находится более чем 500 видов ковров и ковровых дорожек. Все
+                наши товары современные, высокого качества, имеют сертификаты, не вредят здоровью. Наша миссия – помочь
+                нашим клиентам создать максимальный уют и комфорт в доме. Наша система продаж основана на
+                индивидуальномподходе к каждому заказчику. Благодаря высокому профессионализму и богатому опыту работы в
+                этом сегменте рынка, все клиенты после работы с нами остаются довольными и счастливыми.
+            </p>
+            <p><strong>Преимущества, которые Вы получаете при покупке напольных покрытий в интернет-магазине
+                    Eurocarpet:</strong></p>
+            <ul>
+                <li>Большой ассортимент ковровых изделий.</li>
+                <li>Высокое качество товаров.</li>
+                <li>Доступная цена.</li>
+                <li>Осуществляется возврат товара в течении 14 дней.</li>
+                <li>Доставка ковров и ковровых покрытий по всей Украине 1-2 дня.</li>
+                <li>Работаем с наложенным платежом.</li>
+                <li>Индивидуальный подбор ковровых изделий для каждого клиента.</li>
+                <li>Предоставляем бесплатные образцы.</li>
+                <li>Отправка товара с собственного склада.</li>
+            </ul>
+
+
+            <p>
+                Заказанные товары Вы сможете получить способами, перечисленными ниже:
+            </p>
+            <p>
+                <strong>Доставка по Украине.</strong> Доставляем в любой уголок Украины транспортными службами: Новая
+                Почта, Интайм,
+                Деливери, при крупногабаритных товарах индивидуальным транспортом на заказ.
+            </p>
+            <p>
+                <STRONG>Доставка по Киеву и области.</STRONG> В отдельных случаях возможна курьерская доставка в течении
+                1-2 дней после
+                оплаты товара.
+            </p>
+            <p>
+                Чтобы купить необходимый ковер или ковровую дорожку через интернет-магазин, Вы можете оформить заказ с
+                помощью сайта или связаться с нашим менеджером по телефонам (099) 641 99 94 или (073) 641 99 94.
+            </p>
+            <p>
+                Также на сайте есть возможность заказать обратный звонок (в течении 1 рабочего часа наши менеджеры сами
+                с
+                Вами свяжутся).
+            </p>
+            <p class="call-me">
+                Звоните, будем рады помочь Вам в выборе напольных покрытий!
+            </p>
+        </div>
+    </div>
+</section>
 
 <?php
-include 'parts/seo-text.php';
 include 'footer.php';
 ?>
 

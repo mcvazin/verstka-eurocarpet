@@ -16,12 +16,12 @@
 					</div>
 				</div>
 			</div>
-			<div style="background: url('img/sisal-flooring.jpg')" class="home-slide">
+			<div style="background: url('img/baner-2.jpg')" class="home-slide">
 				<div class="container">
                     <div class="row home-slider-inner">
                         <div class="col-md-12 col-lg-9 home-slider-text">
-                            <p>Широкий ассортимент ковров, ковровых покрытий и дорожек.</p>
-                            <p>Бесспорно низкие цены!</p>
+                            <p>Наполните Ваш дом уютом, теплом и комфортом!</p>
+                            <p>Покупайте скорее акционные товары!</p>
                         </div>
                         <div class="col-md-12 col-lg-3 home-slider-button">
                             <a href="#" class="slider-more">

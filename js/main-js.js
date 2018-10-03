@@ -145,6 +145,38 @@ $(document).ready(function () {
         ]
     });
 
+    $('.logo-row').slick({
+        slidesToShow: 7,
+        slidesToScroll: 1,
+        dots: false,
+        fade: false,
+        arrows: true,
+
+        responsive: [
+            {
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 4
+                }
+            },
+            {
+                breakpoint: 700,
+                settings: {
+                    slidesToShow: 2
+                }
+            }
+        ]
+    });
+
+    $('.page-works-slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        dots: false,
+        fade: false,
+        arrows: true,
+    });
+
+
     $('.nav-new').click(function () {
         $('#nav-action').css("height", "0");
         $('#nav-popular').css("height", "0");
@@ -220,7 +252,7 @@ $(document).ready(function () {
     $('.min-price').val($('#slider').slider('values', 0));
     $('.max-price').val($('#slider').slider('values', 1));
 
-    //********* plus minus snippet
+    //********* plus minus snippet for one snippet on page
     $('#qty_input').prop('disabled', true);
     $('#plus-btn').click(function () {
         $('#qty_input').val(parseInt($('#qty_input').val()) + 1);
@@ -232,7 +264,23 @@ $(document).ready(function () {
         }
     });
 
-    // replace SVG as inline
+    //********* plus minus snippet for multi snippets
+    var but_parent_id = '';
+    $('.qty_input').prop('disabled', true);
+    $('.plus-btn').click(function () {
+        but_parent_id = '#' + $(this).parent().parent().attr('id');
+        $(but_parent_id + ' .qty_input').val(parseInt($(but_parent_id + ' .qty_input').val()) + 1);
+    });
+    $('.minus-btn').click(function () {
+        but_parent_id = '#' + $(this).parent().parent().attr('id');
+        $(but_parent_id + ' .qty_input').val(parseInt($(but_parent_id + ' .qty_input').val()) - 1);
+        if ($(but_parent_id + ' .qty_input').val() == 0) {
+            $(but_parent_id + ' .qty_input').val(1);
+        }
+    });
+
+
+    // replace SVG as inline   MUST vahe class "svg-hovered"
     $('img[src$=".svg"].svg-hovered').each(function () {
         var $img = jQuery(this);
         var imgURL = $img.attr('src');
@@ -253,5 +301,49 @@ $(document).ready(function () {
             // Replace IMG with SVG
             $img.replaceWith($svg);
         }, 'xml');
+    });
+
+    //script for personal office
+    $('.personal-office__order-btn').click(function() {
+        let findClass = $(this).next('.personal-office__order-title');
+        let findArticle = $(this).next().next('.personal-office__order-desc');
+
+        findClass.toggleClass('active');
+        findArticle.slideToggle();
+
+    });
+
+
+    $('.edit').click(function(){
+        $(this).prev('input').removeAttr('disabled')
+    });
+
+    $('.add-input').click(function(){
+        $(this).parent().append( $('<input class="new-input" type="text" value="">') );
+    });
+
+    //spinner
+    $('.spinner').each(function () {
+
+        var spinner = $(this),
+            input = spinner.find('input[type="text"]'),
+            btnUp = spinner.find('.up'),
+            btnDown = spinner.find('.down'),
+            // options
+            step = input.data('step'),
+            min = input.data('min'),
+            max = input.data('max');
+
+        input.val(min);
+
+        btnUp.click(function () {
+            input.val() >= max ? $(this).prop("disabled", true) : input.val((input.val() * 1) + step);
+
+        });
+
+        btnDown.click(function () {
+            input.val() <= min ? $(this).prop("disabled", true) : input.val((input.val() * 1) - step);
+        });
+
     });
 });

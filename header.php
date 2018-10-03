@@ -35,19 +35,19 @@
                     <div class="collapse navbar-collapse" id="navbarNav-main">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Оплата и доставка</a>
+                                <a class="nav-link" href="4-delivery.php">Оплата и доставка</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Гарантия</a>
+                                <a class="nav-link" href="3-garanty.php">Гарантия</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Отзывы</a>
+                                <a class="nav-link" href="reviews.html">Отзывы</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Услуги</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Контакты</a>
+                                <a class="nav-link" href="5-contacts.php">Контакты</a>
                             </li>
 
                         </ul>
@@ -82,8 +82,8 @@
 
 
             <div class="col-6 col-md-2 top-phons d-block d-md-none">
-                <p class="top-phone1"><img src="img/svg/top_tels.svg" alt="">(073) 641-99-94</p>
-                <p class="top-phone2">(099) 641-99-94</p>
+                <p class="top-phone1"><img src="img/svg/top_tels.svg" alt=""><a href = "tel:(073) 641-99-94">(073) 641-99-94</a></p>
+                <p class="top-phone2"><a href="tel:(099) 641-99-94">(099) 641-99-94</a></p>
             </div>
         </div>
         <div class="row top-logos">
@@ -123,8 +123,8 @@
             </div>
 
             <div class="col-md-2 top-phons desc-top-phons">
-                <p class="top-phone1 d-none d-md-block"><img src="img/svg/top_tels.svg" alt="">(073) 641-99-94</p>
-                <p class="top-phone2 d-none d-md-block">(099) 641-99-94</p>
+                <p class="top-phone1 d-none d-md-block"><img src="img/svg/top_tels.svg" alt=""><a href = "tel:(073) 641-99-94">(073) 641-99-94</a></p>
+                <p class="top-phone2 d-none d-md-block"><a href = "tel:(099) 641-99-94">(099) 641-99-94</a></p>
                 <p class="call-back"><a href="#" data-toggle="modal" data-target="#call-back">Заказать звонок</a></p>
 
             </div>

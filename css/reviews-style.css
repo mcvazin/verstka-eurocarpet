@@ -1,0 +1,131 @@
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.form-reviews {
+    width: 100%;
+    padding: 20px 40px;
+    border: 1px solid #6f1f71;
+    margin: 25px 0;
+    text-align: center;
+    font-size: 14px;
+}
+
+.form-reviews__title {
+    text-transform: uppercase;
+    padding-bottom: 8px;
+}
+
+.form-reviews input,
+.form-reviews textarea {
+    width: 100%;
+    height: 32px;
+    padding-left: 12px;
+    color: #000;
+    border: 1px solid #c6c6c6;
+    background-color: #fff;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    margin-bottom: 6px;
+}
+
+.form-reviews textarea {
+    height: 95px;
+    padding-top: 6px;
+    margin-bottom: 16px;
+    resize: none;
+}
+
+.form-reviews input[type="text"]::placeholder,
+.form-reviews input[type="email"]::placeholder,
+.form-reviews textarea::placeholder {
+    color: #ccc;
+}
+
+.rating {
+    height: 22px;
+    color: #ccc;
+    margin-bottom: 16px;
+    line-height: 15px;
+}
+.rating .stars {
+    margin-left: 6px;
+    color: #ffcc00;
+    font-size: 16px;
+}
+
+.rating .stars i{
+    margin-left: 5px;
+}
+
+.form-reviews__btn {
+    height: 48px;
+    width: 220px;
+    line-height: 48px;
+    margin: 0 auto;
+}
+
+.reviews {
+    margin-top: 24px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.reviews__title {
+    margin-bottom: 15px;
+}
+
+.reviews__title-box p {
+    font-size: 18px;
+}
+
+.reviews-date {
+    font-size: 12px;
+    color: #ccc;
+    padding-left: 16px;
+}
+
+.reviews__title .stars {
+    color: #ffcc00;
+    font-size: 16px;
+}
+
+.reviews__title .stars i {
+    margin-left: 4px;
+}
+
+.reviews-paggination {
+    margin-bottom: 35px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 992px) {
+    .reviews-paggination {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    .reviews-paggination div {
+        padding: 10px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .reviews__title {
+        flex-flow: column;
+        align-items: flex-start !important;
+    }
+    .reviews__title-box {
+        margin-bottom: 10px;
+    }
+
+    .form-reviews {
+        padding: 20px 20px;
+    }
+}
